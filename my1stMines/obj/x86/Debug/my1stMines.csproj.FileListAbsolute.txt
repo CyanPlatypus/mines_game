@@ -1,0 +1,10 @@
+C:\Users\1\Desktop\for_C#\home_projects\my1stMines\my1stMines\bin\Debug\my1stMines.exe
+C:\Users\1\Desktop\for_C#\home_projects\my1stMines\my1stMines\bin\Debug\my1stMines.pdb
+C:\Users\1\Desktop\for_C#\home_projects\my1stMines\my1stMines\obj\x86\Debug\my1stMines.Properties.Resources.resources
+C:\Users\1\Desktop\for_C#\home_projects\my1stMines\my1stMines\obj\x86\Debug\my1stMines.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\for_C#\home_projects\my1stMines\my1stMines\obj\x86\Debug\my1stMines.exe
+C:\Users\1\Desktop\for_C#\home_projects\my1stMines\my1stMines\obj\x86\Debug\my1stMines.pdb
+C:\Users\1\Desktop\for_C#\home_projects\my1stMines\my1stMines\obj\x86\Debug\my1stMines.myNiceForm.resources
+C:\Users\1\Desktop\for_C#\home_projects\my1stMines\my1stMines\obj\x86\Debug\my1stMines.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\my1stMines\my1stMines\obj\x86\Debug\my1stMines.exe
+C:\Documents and Settings\Admin\Рабочий стол\my1stMines\my1stMines\obj\x86\Debug\my1stMines.pdb
